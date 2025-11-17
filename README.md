@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 2024 Learning Goals -->
-## My 2024 Learning Goals
+<!-- 2026 Learning Goals -->
+## My 2026 Learning Goals
 
 ```cli
 Legend
