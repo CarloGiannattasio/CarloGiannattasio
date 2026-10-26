@@ -2,7 +2,7 @@
 
 Cloud & Platform Engineer working across **AWS and GCP**. I build Terraform pipelines, cloud governance automation with Cloud Custodian, and FinOps tooling.
 
-Outside of work I'm a husband, a parent, and a dog owner.
+Outside of work I'm a husband, a parent, and a dog (now cat) owner .
 
 ## 🔧 Featured projects
 
